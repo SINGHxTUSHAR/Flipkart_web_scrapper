@@ -2,7 +2,7 @@
 
 This is a web scrapper project which will show the reviews given by the people on Flipkart for entered items. you can enter the item on the search page and will get the reviews on result page.
 
-Link for the API : https://blue-hairdresser-qlwgf.pwskills.app:5000/
+Link for the API: Will be update in future
 
 Modules that we have used in our API with Flask framework are : 
 
@@ -33,6 +33,13 @@ Screenshots :
 
 
 we can also push the data to our database using MongoDB, the code for that is given in the app_Mongodb file.
+
+============================================================================     
+                     THANKS FOR VISITING                                 
+         ============================================================================
+
+
+Future updates will come in this repo!
 
 
 
